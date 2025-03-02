@@ -1,6 +1,6 @@
 ## Hello soy aline 👋
 
-![Mi imagen](https://www.clipartmax.com/png/middle/474-4744556_bt21shooky-sticker-bt21-shooky.png)
+![Mi imagen]
 <img src="https://www.clipartmax.com/png/middle/474-4744556_bt21shooky-sticker-bt21-shooky.png" alt="Mi imagen" width="300px">
 # ¡Hola! 👋 Soy Aline❤️
 ![GIF hello](https://i.pinimg.com/originals/70/d8/8e/70d88ec654be81fc2243de055a16c6ad.gif)
